@@ -1,0 +1,4 @@
+# Jupyter checkpoints & archives
+.ipynb_checkpoints/
+*.zip
+.DS_Store
